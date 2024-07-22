@@ -4,7 +4,7 @@ Potato is one of the most important crops worldwide, and its productivity can be
 ![image](https://github.com/user-attachments/assets/fead7715-3fea-46b7-8cf2-89cd572f5bf4)
 Early Blight
 
-![image](https://github.com/user-attachments/assets/d3f2d9ba-66fc-4d49-8521-eb7891e91d68)
+![image](https://github.com/user-attachments/assets/a204c3c3-a7d5-45a1-88d8-f58f8772222c)
 Healthy
 
 ![image](https://github.com/user-attachments/assets/ea5eb442-f30b-4ffd-bc0a-afae9142437e)

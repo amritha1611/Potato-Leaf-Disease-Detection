@@ -7,7 +7,7 @@ Early Blight
 ![image](https://github.com/user-attachments/assets/d3f2d9ba-66fc-4d49-8521-eb7891e91d68)
 Healthy
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/ea5eb442-f30b-4ffd-bc0a-afae9142437e)
 Late Blight
 
 
